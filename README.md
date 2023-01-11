@@ -1,6 +1,6 @@
-# Dungeon-Game-COMP2511
+# Dungeon-Game
 
-This is a maze game developed as a part of COMP2511 project.
+This is a maze game developed as a part of a project.
 
 ## How to run
 1. Download the repository
